@@ -5,7 +5,7 @@
 <title>Privacy Policy</title>
 <meta name="title" content="Privacy Policy - Custom Fence Banner">
 <meta name="DC.title" lang="en" content="Privacy Policy - Custom Fence Banner">
-<meta name="description" content="In Denver, a  plethora of  business offer services to design  and also install  high-grade banner  fencings.">
+<meta name="description" content="In Denver, a  plethora of  firms offer  solutions to design and  set up  top notch banner fences.">
 <meta name="keywords" content="Custom Fence Banner">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -18,85 +18,85 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-footer *{
-font-size:16px !important;
+html{
+scroll-behavior: smooth;
 }
-.w7c16adbf31286b1879da922ceeb44723 a,.w519d95b8e678b8fec1a27ba8e00587a2 a{
-color:#0e0e0e!important;
-text-decoration: underline !important;
-}
-a{
-text-decoration: none!important;
+.nav-item{
+padding-left:7.5px;
+padding-right:7.6px;
+padding-top:4.7px;
+padding-bottom:4.6px;
 }
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.d3798008cea76a84e3e1d1e8faa6aade1:hover{
-box-shadow: 0 49.5px 50.5px -25px rgb(0 0 0 / 30%);
+footer{
+background:#0e0e0e;
+color:#ffffff;
+}
+.x6c994ba6c0245674c5c870b255912662:hover{
+box-shadow: 0 49.7px 49.9px -25px rgb(0 0 0 / 30%);
 transform: rotate(-2deg) scale(1.03);
 }
-footer{
-background:#121212;
-color:#ffffff;
+ul{
+list-style: circle;
+}
+.a3c16eab487370eacd171722630090311 p,.a3c16eab487370eacd171722630090311 span,.a3c16eab487370eacd171722630090311 label{
+font-size:16px!important;
+}
+.d227d9539333208d0da486b84806197bd p,.d227d9539333208d0da486b84806197bd a,.d227d9539333208d0da486b84806197bd span,.d227d9539333208d0da486b84806197bd label{
+font-size:16px!important;
+}
+.navbar a{
+font-size: 18px!important;
+font-weight: bold;
+}
+.btn-md{
+padding: 15.1px 29.7px;
+border-radius: 0;
+}
+.w04acc735d56acc2fb3df7f4f1052dcc0{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+.d227d9539333208d0da486b84806197bd a,.a3c16eab487370eacd171722630090311 a{
+color:#060606!important;
+text-decoration: underline !important;
+}
+footer *{
+font-size:16px !important;
+}
+a{
+text-decoration: none!important;
+}
+.a3c16eab487370eacd171722630090311 a{
+font-size:16px;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.btn-md{
-padding: 15.2px 30.3px;
-border-radius: 0;
-}
-ul{
-list-style: circle;
-}
-.w7c16adbf31286b1879da922ceeb44723 p,.w7c16adbf31286b1879da922ceeb44723 a,.w7c16adbf31286b1879da922ceeb44723 span,.w7c16adbf31286b1879da922ceeb44723 label{
-font-size:16px!important;
-}
-.navbar a{
-font-size: 17.9px!important;
-font-weight: bold;
-}
-html{
-scroll-behavior: smooth;
-}
-.ffac81aaee1863d809a74112e897b7060{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
-}
 .nav-link{
 color: #000000!important;
 
 }
-.w519d95b8e678b8fec1a27ba8e00587a2 a{
-font-size:16px;
-}
-.w519d95b8e678b8fec1a27ba8e00587a2 p,.w519d95b8e678b8fec1a27ba8e00587a2 span,.w519d95b8e678b8fec1a27ba8e00587a2 label{
-font-size:16px!important;
-}
-.nav-item{
-padding-left:7.9px;
-padding-right:8px;
-padding-top:4.9px;
-padding-bottom:5.5px;
-}
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg navbar">
+<nav class="navbar navbar-expand-lg">
 <a class="navbar-brand" href="custom-fence-banner.html"  ><img alt="img/durablevinylbanners.jpg" src="img/durablevinylbanners.jpg"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="navbar-nav ml-auto align-items-center d-flex"><li class="nav-item ">
-<a class="ab266960df73c72624518fee34a34128c nav-link" href="custom-fence-banner.html"  >Custom Fence Banner</a>
+<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav align-items-center ml-auto d-flex"><li class=" nav-item">
+<a class="v2cc63a0b52dff112dfd2c9e60e5c52e8 nav-link" href="custom-fence-banner.html"  >Custom Fence Banner</a>
 </li><li class="nav-item ">
-<a class="ab266960df73c72624518fee34a34128c nav-link" href="banner-on-fence.html"  >Banner on Fence</a>
-</li><li class="nav-item ">
-<a class="nav-link ab266960df73c72624518fee34a34128c" href="fence-banner-design.html"  >Fence Banner Design</a>
-</li><li class="nav-item ">
-<a class="ab266960df73c72624518fee34a34128c nav-link" href="banner-fence.html"  >Banner Fence</a>
-</li><li class="nav-item"><a class="nav-link ab266960df73c72624518fee34a34128c" rel=nofollow href="about-us.html">About Us</a>
+<a class="nav-link v2cc63a0b52dff112dfd2c9e60e5c52e8" href="banner-on-fence.html"  >Banner on Fence</a>
+</li><li class=" nav-item">
+<a class="nav-link v2cc63a0b52dff112dfd2c9e60e5c52e8" href="fence-banner-design.html"  >Fence Banner Design</a>
+</li><li class=" nav-item">
+<a class="nav-link v2cc63a0b52dff112dfd2c9e60e5c52e8" href="banner-fence.html"  >Banner Fence</a>
+</li><li class="nav-item"><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8 nav-link" rel=nofollow href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -163,35 +163,35 @@ Co</br>
 </p>
 </section>
 <footer>
-<div class="container py-4 pt-5" >
+<div class="pt-5 py-4 container" >
 <div class="row"><div class="col-lg-3">
 <p>City : Denver</p>
 <p>State : Co</p>
 <p>Zip : 80204</p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="https://www.google.com/maps?cid=7412249110862506011" rel="nofollow"> Google Business Profile</a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="https://www.google.com/maps?cid=7412249110862506011" rel="nofollow"> Google Business Profile</a></p>
 </div><div class="col-lg-3">
 <p>USEFUL LINKS</p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="https://www.globenewswire.com/news-release/2023/08/09/2721616/0/en/Label-Printing-Machines-Market-New-Insights-Report-Size-to-Reach-USD-10-90-Billion-by-2030-which-is-Booming-Globally-with-Strong-Growth-Zion-Market-Research.html" rel="nofollow" target="_blank">Label Printing Machines Market </a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="https://www.benzinga.com/pressreleases/23/09/34279719/printers-copy-machines-leasing-market-analysis-report-2023-2030-101-pages-report" rel="nofollow" target="_blank">Printers & Copy Machines Leasing Market Analysis Report 2023-2030</a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="https://www.benzinga.com/pressreleases/23/08/34145915/flexographic-printing-machine-market-insights-report-2023-2030-110-pages-report" rel="nofollow" target="_blank">Flexographic Printing Machine Market Insights Report 2023-2030</a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="" rel="nofollow" target="_blank"></a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="" rel="nofollow" target="_blank"></a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href=""  target="_blank"></a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="https://www.globenewswire.com/news-release/2023/08/09/2721616/0/en/Label-Printing-Machines-Market-New-Insights-Report-Size-to-Reach-USD-10-90-Billion-by-2030-which-is-Booming-Globally-with-Strong-Growth-Zion-Market-Research.html" rel="nofollow" target="_blank">Label Printing Machines Market </a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="https://www.benzinga.com/pressreleases/23/09/34279719/printers-copy-machines-leasing-market-analysis-report-2023-2030-101-pages-report" rel="nofollow" target="_blank">Printers & Copy Machines Leasing Market Analysis Report 2023-2030</a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="https://www.benzinga.com/pressreleases/23/08/34145915/flexographic-printing-machine-market-insights-report-2023-2030-110-pages-report" rel="nofollow" target="_blank">Flexographic Printing Machine Market Insights Report 2023-2030</a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="" rel="nofollow" target="_blank"></a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="" rel="nofollow" target="_blank"></a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href=""  target="_blank"></a></p>
 </div><div class="col-lg-3"><p>LATEST BLOGPOSTS</p> 
-<p><a class="ab266960df73c72624518fee34a34128c" href="https://www.denverprintingcompany.com/uncategorized/banners-banners-and-more-vinyl-banners/" rel="nofollow" target="_blank">Banners, Banners, and More Vinyl Banners</a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="https://www.denverprintingcompany.com/banner-printing-in-denver/all-about-banner-printing/" rel="nofollow" target="_blank">All About Banner Printing</a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="" rel="nofollow" target="_blank"></a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href=""  target="_blank"></a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="ab266960df73c72624518fee34a34128c" href="about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="https://www.denverprintingcompany.com/uncategorized/banners-banners-and-more-vinyl-banners/" rel="nofollow" target="_blank">Banners, Banners, and More Vinyl Banners</a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="https://www.denverprintingcompany.com/banner-printing-in-denver/all-about-banner-printing/" rel="nofollow" target="_blank">All About Banner Printing</a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="" rel="nofollow" target="_blank"></a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href=""  target="_blank"></a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="v2cc63a0b52dff112dfd2c9e60e5c52e8" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/DenverPrintCompany/" class="facebook v3e7b0108b17aede7a124b9fb66156f42" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.instagram.com/denverprintcompany/" class="google v3e7b0108b17aede7a124b9fb66156f42-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://twitter.com/denverprintco" class="twitter v3e7b0108b17aede7a124b9fb66156f42" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/DenverPrintCompany/" class="facebook y5a9a1909ed9a9508dfdbecd355084a5b" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/denverprintcompany/" class="google y5a9a1909ed9a9508dfdbecd355084a5b-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://twitter.com/denverprintco" class="twitter y5a9a1909ed9a9508dfdbecd355084a5b" rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 </div>
